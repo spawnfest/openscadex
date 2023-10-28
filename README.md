@@ -1,6 +1,6 @@
 # OpenSCADEx
 
-[OpenSCAD](https://openscad.org/) is an code cad tool. OpenSCADEx provides bindings to elixir language. 
+[OpenSCAD](https://openscad.org/) is an [code cad](https://github.com/Irev-Dev/curated-code-cad) tool. OpenSCADEx provides bindings to elixir language. 
 
 This package is dependent on prior work which is outlined in this [pull request](https://github.com/openscad/openscad/pull/4758).
 
