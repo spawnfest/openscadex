@@ -1,3 +1,7 @@
+# No deliverable yet.
+
+Stuck due to environment issues and bugs in the base pull request. We will continue this journey in coming months. 
+
 # OpenSCADEx
 
 [OpenSCAD](https://openscad.org/) is an [code cad](https://github.com/Irev-Dev/curated-code-cad) tool. OpenSCADEx provides bindings to elixir language. 
